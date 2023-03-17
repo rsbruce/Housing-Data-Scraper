@@ -6,6 +6,7 @@ Run `pip install -r requirements.txt`
 Execute `python main.py to-rent` or `python main.py for-sale` for property lettings and sales respectively. 
 
 ## Overview
+This project is a collection of scripts for gathering day-by-day housing data from onthemarket.com
 
 The scraper considers one locale (county or London borough) at a time as it makes requests to the server. By default, each request is for listings uploaded in the last 3 days. The data is collated into pandas DataFrames for processing before being saved.
 
