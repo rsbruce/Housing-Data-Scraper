@@ -1,0 +1,7 @@
+gwent
+south-glamorgan
+mid-glamorgan
+west-glamorgan
+dyfed
+powys
+north-wales
